@@ -1,0 +1,12 @@
+.Center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.Button_Size{
+    height: 50px;
+    width: 100px;
+}
